@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there! I'm Joseph Pushnam (or J) 👋
+
+After working in leading ecommerce brands, big 4s and startups I've learned an important truth about work **The learning curve is steep, and it doesn't always have to be mundane and boring.**
+
+My favorite quote by **Simon Sinek** is...
+
+_"Work hard, play hard" sounds terribly unhealthy. I think, we would all be a lot healthier, happier, and find greater balance in our lives if we learn to work smart and play always."_
+
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephpushnam&count_private=true&show_icons=true&theme=radical)](https://github.com/josephpushnam/github-readme-stats)
 
 <!--
 **josephpushnam/josephpushnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
